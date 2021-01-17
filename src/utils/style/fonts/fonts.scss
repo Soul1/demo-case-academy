@@ -1,0 +1,22 @@
+@font-face {
+ font-family: 'Euclid Square';
+ src: url('./EuclidSquare-Regular.eot');
+ src: local('Euclid Square Regular'), local('EuclidSquare-Regular'),
+ url('./EuclidSquare-Regular.eot') format('embedded-opentype'),
+ url('./EuclidSquare-Regular.woff2') format('woff2'),
+ url('./EuclidSquare-Regular.woff') format('woff'),
+ url('./EuclidSquare-Regular.ttf') format('truetype');
+ font-weight: normal;
+ font-style: normal;
+}
+
+@font-face {
+ font-family: 'Euclid Flex';
+ src: url('./EuclidFlex-Regular.eot'),
+ url('./EuclidFlex-Regular.eot?#iefix') format('embedded-opentype'),
+ url('./EuclidFlex-Regular.woff2') format('woff2'),
+ url('./EuclidFlex-Regular.woff') format('woff'),
+ url('./EuclidFlex-Regular.ttf') format('truetype');
+ font-style: normal;
+ font-weight: normal;
+}

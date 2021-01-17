@@ -1,0 +1,33 @@
+@import '../../utils/style/mixin';
+
+.case-challenge {
+ &__top {
+  display: flex;
+  align-items: center;
+  margin: 100px 60px 125px;
+
+  &-headers {
+   margin-left: 70px;
+
+   &__title {
+    font-size: 70px;
+    line-height: 48px;
+    margin-bottom: 30px;
+   }
+
+   &__subtitle {
+    font-size: 28px;
+    line-height: 38px;
+   }
+  }
+ }
+
+ &__main {
+  @include caseLibrary;
+  @include select;
+
+  &-select {
+   margin-bottom: 70px;
+  }
+ }
+}

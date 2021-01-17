@@ -1,0 +1,231 @@
+$black: #232526;
+$blue: #2351ff;
+$red: #f53a3a;
+
+.main {
+ .welcome {
+  &__title {
+   text-align: center;
+   margin: 150px 0 100px;
+
+   .title-main {
+    max-width: 930px;
+   }
+  }
+
+  &__cards {
+   display: flex;
+   flex-basis: calc(30% - 40px);
+   margin: 0 80px 90px;
+
+   &-card {
+    max-width: 400px;
+    width: 100%;
+    padding: 42px 0 48px 40px;
+    background-color: #fff;
+    box-shadow: 0 12px 20px 6px rgba(35, 81, 255, 0.06);
+    border-radius: 40px;
+
+    & + .welcome__cards-card {
+     margin-left: 40px;
+    }
+
+    &__img {
+     margin-bottom: 50px;
+     height: 165px;
+    }
+
+    &__title {
+     color: $blue;
+     font-size: 34px;
+     line-height: 43px;
+     margin-bottom: 10px;
+    }
+
+    &__text {
+     max-width: 300px;
+     width: 100%;
+     font-size: 24px;
+     line-height: 30px;
+     margin-bottom: 20px;
+    }
+   }
+  }
+
+  &__btn {
+   margin-bottom: 200px;
+  }
+ }
+
+ .partners {
+  min-height: 930px;
+  padding-top: 200px;
+  background-image: url('../../common/images/main/bg-partners.png');
+
+  &__title {
+   text-align: center;
+   margin: 150px 0 100px;
+  }
+
+  &__btn {
+   margin-bottom: 200px;
+  }
+ }
+
+ .challenge {
+  min-height: 930px;
+
+  &__title {
+   text-align: center;
+   margin: 150px 0 100px;
+  }
+
+  &__btn {
+   margin-bottom: 200px;
+  }
+
+  &__steps {
+   margin: 0 60px 100px;
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+
+
+   &-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+   &-step {
+    max-width: 325px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Euclid Flex';
+
+    &__num {
+     font-size: 300px;
+     line-height: 300px;
+     font-family: 'Euclid Flex';
+     background-image: linear-gradient(270deg, #FAFBFE 24.32%, #2351FF 87.82%);
+     color: transparent;
+     -webkit-background-clip: text;
+    }
+
+    &__text {
+     font-size: 26px;
+     line-height: 30px;
+    }
+   }
+
+   &-line {
+    width: 160px;
+    margin-bottom: 75px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background: linear-gradient(270deg, #FAFBFE 12.12%, #2351FF 117.5%);
+   }
+  }
+ }
+
+ .users-countries {
+  background-image: url('../../common/images/main/transferMap-light.png');
+  font-family: 'Euclid Flex';
+  padding-top: 170px;
+  text-align: center;
+  margin-bottom: 200px;
+
+  &__num {
+   font-size: 240px;
+   line-height: 300px;
+   font-family: 'Euclid Flex';
+   background: linear-gradient(180deg, #FFFFFF -13.16%, #2351FF 91.45%);
+   color: transparent;
+   -webkit-background-clip: text;
+  }
+
+  &__text {
+   font-size: 50px;
+   line-height: 63px;
+  }
+ }
+
+ .feedback-main {
+  display: flex;
+  justify-content: flex-start;
+
+  &__inner {
+   margin-left: 110px;
+
+   &-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+
+    &__info {
+     font-family: 'Euclid Flex';
+
+     &-name {
+      font-size: 26px;
+      line-height: 33px;
+      color: $blue;
+     }
+
+     &-job {
+      font-size: 20px;
+      line-height: 30px;
+     }
+    }
+
+    &__btn {
+     .btn {
+      background: linear-gradient(90deg, #2351FF -0.01%, #FFFFFF 150%);
+      padding: 20px 25px 18px;
+      border-radius: 50%;
+     }
+    }
+   }
+
+   &-line {
+    width: 100%;
+    position: relative;
+
+    &:after {
+     content: '';
+     display: inline-block;
+     position: absolute;
+     left: 0;
+     border-bottom: 1px solid $blue;
+     opacity: .1;
+     width: 100%;
+    }
+
+    &:before {
+     content: '';
+     display: inline-block;
+     border-bottom: 1px solid $blue;
+     position: absolute;
+     left: 0;
+     opacity: 1;
+     width: 37.5%;
+    }
+   }
+
+   &-text {
+    max-width: 800px;
+    width: 100%;
+    font-size: 36px;
+    line-height: 44px;
+    padding-top: 30px;
+    margin-bottom: 100px;
+    padding-right: 20px;
+   }
+
+   &-btn {
+    margin-bottom: 200px;
+    text-align: left;
+   }
+  }
+ }
+}

@@ -1,0 +1,19 @@
+.settings {
+ text-align: left;
+ .ant-checkbox-group-item {
+  display: block;
+  margin-right: 8px;
+  font-size: 18px;
+  line-height: 26px;
+ }
+
+ &__label {
+  font-size: 18px;
+  line-height: 28px;
+  color: #a3a8bb;
+  margin-bottom: 14px;
+ }
+ &__btn {
+  margin-top: 50px;
+ }
+}

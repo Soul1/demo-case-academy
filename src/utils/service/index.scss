@@ -1,0 +1,42 @@
+.not-found {
+ color: #fff;
+ text-align: center;
+ height: 100vh;
+ background-image: url('../../common/images/main/bg-auth.png');
+ background-size: 100% auto;
+ background-position: 100%;
+ background-repeat: no-repeat;
+ background-color: #2351ff;
+ padding: 90px 20px 200px;
+
+ &__title {
+  font-family: Euclid Flex;
+  font-size: 300px;
+  line-height: 380px;
+  background: linear-gradient(270deg, #2351ff 15%, #fff 88%);
+  color: transparent;
+  background-clip: text;
+  margin: 0;
+ }
+
+ &__subtitle {
+  font-size: 44px;
+  line-height: 50px;
+  color: #fff;
+  margin: 0 0 20px;
+ }
+
+ &__text {
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 550px;
+  width: 100%;
+  margin: 0 auto 60px;
+ }
+
+ &__btn {
+  button {
+   padding: 0 120px;
+  }
+ }
+}

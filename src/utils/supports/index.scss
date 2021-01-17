@@ -1,0 +1,84 @@
+@import "src/utils/style/mixin";
+
+.file {
+ display: flex;
+ align-items: center;
+ margin-bottom: 70px;
+ margin-right: 50px;
+
+ &__info {
+  margin-left: 15px;
+
+  &-title {
+   font-size: 16px;
+   margin: 0;
+  }
+
+  &-size {
+   font-size: 14px;
+   color: #a3a8bb;
+  }
+ }
+}
+
+.select-item {
+ border: 1px solid #2351ff;
+ background: transparent;
+ border-radius: 80px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 8px 20px 10px 30px;
+ margin-bottom: 10px;
+
+ & {
+  margin-right: 8px;
+ }
+
+ &__drop {
+  margin-left: 20px;
+  cursor: pointer;
+ }
+}
+
+.case {
+ &-text {
+  max-width: 820px;
+  width: 100%;
+  line-height: 28px;
+  margin-bottom: 60px;
+ }
+
+ &-files {
+  &__title {
+   font-size: 18px;
+   line-height: 24px;
+   color: #a3a8bb;
+   margin-bottom: 25px;
+  }
+
+  &__main {
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   flex-basis: calc(33% - 50px);
+   flex-wrap: wrap;
+  }
+ }
+}
+
+.textarea {
+ &__title {
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 20px;
+ }
+ @include textarea;
+ &__words {
+  font-size: 16px;
+  line-height: 30px;
+  text-align: right;
+ }
+}
+
+@include searchAccess;

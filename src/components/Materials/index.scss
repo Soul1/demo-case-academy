@@ -1,0 +1,235 @@
+@import '../../utils/style/mixin';
+
+.materials {
+ &__info {
+  max-width: 880px;
+  width: 100%;
+  margin: 150px auto;
+  text-align: center;
+
+  &-title {
+   margin-bottom: 50px;
+  }
+
+  &-text {
+   font-size: 20px;
+   line-height: 30px;
+   margin-bottom: 60px;
+  }
+
+  &-links {
+   a {
+    border-bottom: 1px dashed #a3a8bb;
+    color: #a3a8bb;
+    margin-right: 50px;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 30px;
+    &:hover {
+     color: #2351ff;
+    }
+   }
+  }
+ }
+
+
+ &__videos {
+  &-card {
+   background: #fff;
+   box-shadow: 0 8px 20px 6px rgba(35, 81, 255, 0.06);
+   border-radius: 320px;
+   margin: 0 60px 100px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+   &__video {
+    max-width: 640px;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+
+    &:before {
+     content: '';
+     position: absolute;
+     top: 36%;
+     right: 40%;
+     background-image: url('../../common/images/materials/play.svg');
+     width: 120px;
+     height: 123px;
+    }
+
+    img {
+     border-radius: 530px;
+    }
+   }
+
+   .card__video {
+    &--left {
+     margin: 0 100px 0;
+    }
+
+    &--right {
+     margin: 0 60px 0 210px;
+    }
+   }
+  }
+ }
+
+ &__library {
+  @include caseLibrary;
+ }
+
+ &__faq {
+  margin-bottom: 200px;
+  &-title {
+   font-size: 46px;
+   line-height: 54px;
+   margin-bottom: 50px;
+  }
+ }
+}
+
+.faq {
+ background: #fff;
+ box-shadow: 0 4px 14px 2px rgba(35, 81, 255, 0.06);
+ border-radius: 40px;
+ padding: 50px 30px 30px 60px;
+ margin-bottom: 30px;
+
+ &-top {
+  display: flex;
+  justify-content: space-between;
+
+  &__title {
+   max-width: 950px;
+   width: 100%;
+   font-size: 36px;
+   line-height: 50px;
+  }
+
+  &__arrow {
+   background: #edf0fd;
+   border-radius: 110px;
+   height: 70px;
+
+   .arrow {
+    &-up {
+     padding: 28px 23px 29px;
+    }
+
+    &-down {
+     padding: 30px 23px 27px;
+    }
+   }
+  }
+ }
+
+ &-text {
+  max-width: 1040px;
+  width: 100%;
+  line-height: 28px;
+ }
+}
+
+
+.card-library {
+ background: #fff;
+ box-shadow: 0 8px 20px 6px rgba(35, 81, 255, .06);
+ border-radius: 40px;
+ max-width: 640px;
+ width: 100%;
+
+ &__img {
+  position: relative;
+  margin-bottom: 30px;
+
+  &-title {
+   position: absolute;
+   top: 35px;
+   left: 40px;
+   font-size: 18px;
+   padding: 13px 20px 14px 25px;
+   background: rgba(255, 255, 255, .8);
+   backdrop-filter: blur(18px);
+   border-radius: 40px;
+  }
+ }
+
+ &__info {
+  padding: 0 0 0 16px;
+
+  &-category {
+   margin-bottom: 10px;
+   font-size: 18px;
+   line-height: 23px;
+   color: #a3a8bb;
+  }
+
+  &-title {
+   font-size: 46px;
+   line-height: 58px;
+   margin-bottom: 20px;
+  }
+
+  &-text {
+   margin-bottom: 20px;
+   font-size: 18px;
+   line-height: 28px;
+  }
+ }
+
+ .ant-card-actions {
+  background: #EDF0FD;
+  opacity: 0.4;
+  border-radius: 0 0 40px 40px;
+
+  & > li {
+   margin: 0;
+  }
+ }
+}
+
+.popup {
+ position: fixed;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ z-index: 5;
+ width: 100%;
+ height: 100vh;
+ background: #e5e5e5;
+
+ &__close {
+  margin: 30px 50px;
+  text-align: center;
+  float: right;
+  background: #edf0fd;
+  border-radius: 110px;
+  width: 70px;
+  height: 70px;
+
+  img {
+   padding: 28px 23px 29px;
+  }
+ }
+
+ &__video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 200px 0;
+  position: relative;
+
+  &:before {
+   content: '';
+   position: absolute;
+   top: 42%;
+   left: 47%;
+   background-image: url('../../common/images/materials/play.svg');
+   width: 120px;
+   height: 123px;
+  }
+ }
+}

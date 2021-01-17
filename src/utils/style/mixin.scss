@@ -1,0 +1,142 @@
+@mixin select {
+ &__select,
+ &-select {
+  display: flex;
+  align-items: center;
+  max-width: 640px;
+  width: 100%;
+
+  .ant-select-selection-placeholder {
+   background: #edf0fd;
+   padding-left: 11px;
+  }
+
+  .ant-select-single.ant-select-show-arrow .ant-select-selection-item, .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+   background: #edf0fd;
+   border-radius: 20px;
+   padding: 8px 20px;
+  }
+
+  &-function {
+   padding: 17px 0;
+   margin-left: 30px;
+  }
+
+  .ant-select {
+   font-size: 18px;
+   line-height: 26px;
+
+   .ant-select-selector {
+    background: #edf0fd;
+    border-radius: 20px;
+    padding: 8px 100px 8px 0;
+
+    .ant-select-selection-placeholder {
+     color: #232526;
+     background: #edf0fd;
+    }
+   }
+
+   .ant-select-arrow {
+    font-size: 16px;
+    margin-right: 10px;
+   }
+  }
+ }
+}
+
+@mixin caseLibrary {
+ margin: 0 60px;
+
+ &-title {
+  font-size: 66px;
+  line-height: 54px;
+  margin-bottom: 30px;
+ }
+
+ &-filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 65px;
+
+  &__text {
+   max-width: 430px;
+   width: 100%;
+   font-size: 20px;
+   line-height: 30px;
+   color: #a3a8bb;
+  }
+
+  @include select;
+
+ }
+
+
+ &-cards {
+  display: flex;
+  flex-basis: calc(45% - 40px);
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 170px;
+
+  &__btn {
+   width: 100%;
+   margin: 20px 0 0;
+   display: flex;
+
+   .ant-btn {
+    margin: 0 auto;
+    padding: 18px 94px;
+   }
+  }
+
+  .ant-card {
+   border-radius: 40px;
+   margin-bottom: 70px;
+  }
+ }
+}
+
+@mixin textarea {
+ textarea {
+  font-size: 18px;
+  line-height: 30px;
+
+  &::placeholder {
+   color: #a3a8bb;
+  }
+
+  &.ant-input {
+   min-height: 300px;
+   max-height: 960px;
+   height: auto;
+   background: #fff;
+   border: 1px solid #EEF2FF;
+   box-sizing: border-box;
+   border-radius: 10px;
+   resize: none;
+   padding: 27px 60px 38px 35px;
+  }
+ }
+}
+
+@mixin searchAccess {
+ .search-access {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  &__title {
+   font-size: 18px;
+   line-height: 26px;
+  }
+  &__text {
+   max-width: 334px;
+   width: 100%;
+   font-size: 15px;
+   line-height: 22px;
+   color: #a3a8bb;
+  }
+ }
+}

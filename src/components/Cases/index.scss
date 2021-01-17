@@ -1,0 +1,186 @@
+.cases {
+ margin: 0 60px;
+
+ &__top {
+  &-card {
+   background: #fff;
+   box-shadow: 0 8px 20px 6px rgba(35, 81, 255, 0.06);
+   border-radius: 320px;
+   display: flex;
+   align-items: center;
+
+   &__img {
+    position: relative;
+
+    &-title {
+     position: absolute;
+     bottom: 25px;
+     right: 250px;
+     background: rgba(255, 255, 255, 0.8);
+     backdrop-filter: blur(18px);
+     border-radius: 40px;
+     padding: 14px 20px;
+    }
+   }
+
+   &__info {
+    margin-left: 70px;
+
+    &-subtitle {
+     font-size: 18px;
+     line-height: 23px;
+     color: #a3a8bb;
+    }
+
+    &-title {
+     font-size: 70px;
+     line-height: 80px;
+    }
+   }
+  }
+ }
+
+ &__description {
+  margin-top: 140px;
+
+  &-title {
+   font-size: 44px;
+   line-height: 50px;
+   cursor: pointer;
+   display: inline-block;
+
+   img {
+    margin-left: 16px;
+   }
+  }
+
+  &-main {
+   max-width: 880px;
+   width: 100%;
+  }
+ }
+
+ &__steps {
+  font-size: 18px;
+  line-height: 24px;
+  color: #a3a8bb;
+
+  .steps {
+
+   &-info {
+    &__current-step {
+     font-size: 44px;
+     line-height: 50px;
+     color: #232526;
+     margin-bottom: 20px;
+    }
+
+    &__allotted-date {
+     margin-bottom: 10px;
+    }
+
+    &__left-date {
+     span {
+      color: #232526;
+     }
+    }
+   }
+
+   .title-step {
+    margin-left: 148px;
+
+    &__title {
+     font-size: 44px;
+     line-height: 50px;
+     color: #2351ff;
+     margin-bottom: 20px;
+    }
+
+    &__text {
+     font-size: 18px;
+     line-height: 24px;
+     max-width: 655px;
+     width: 100%;
+    }
+
+    &__child {
+     display: flex;
+     align-items: center;
+     color: #232526;
+     a {
+      font-size: 18px;
+      line-height: 24px;
+      border-bottom: 1px solid #232526;
+     }
+     &-password {
+      margin-left: 40px;
+      font-size: 18px;
+      line-height: 24px;
+      color: #a3a8bb;
+      span {
+       color: #232526;
+      }
+     }
+    }
+   }
+  }
+
+  .step {
+   display: flex;
+   border-top: 1px solid #a3a8bb;
+   border-bottom: 1px solid #a3a8bb;
+   padding: 50px 0;
+   margin: 60px 0;
+  }
+ }
+
+ &__case-challenge {
+  background: #EDF0FD;
+  width: 100%;
+  text-align: center;
+  padding: 35px 0;
+  margin: 0;
+  a {
+   font-size: 24px;
+   line-height: 50px;
+   position: relative;
+   &:before {
+    content: '';
+    background-image: url('../../common/images/account/arrow.svg');
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    right: -29px;
+    top: 8px;
+   }
+  }
+ }
+}
+
+.step-info {
+ max-width: 300px;
+ width: 100%;
+
+ &__current-step {
+  font-size: 44px;
+  line-height: 50px;
+  color: #232526;
+  margin-bottom: 20px;
+ }
+
+ &__allotted-date {
+  max-width: 283px;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 10px;
+ }
+
+ &__left-date {
+  font-size: 18px;
+  line-height: 24px;
+
+  span {
+   color: #232526;
+  }
+ }
+}

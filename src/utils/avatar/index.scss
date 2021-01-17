@@ -1,0 +1,56 @@
+.avatar {
+ position: relative;
+ height: 110px;
+ width: 110px;
+ margin: 0 auto;
+ border-radius: 50%;
+}
+
+.profile-pic {
+ height: 100%;
+ width: 100%;
+ border-radius: 50%;
+}
+
+.upload-button {
+ cursor: pointer;
+ position: absolute;
+ top: 0;
+ left: 0;
+ height: 100%;
+ width: 100%;
+ border-radius: 50%;
+}
+
+.file-upload {
+ position: absolute;
+ opacity: 0;
+ top: -9999px;
+ left: -9999px;
+}
+
+.add-photo {
+ position: absolute;
+ bottom: 2px;
+ right: 4px;
+ z-index: 5;
+ background-color: #fff;
+ box-shadow: 0 8px 20px 6px rgba(35, 81, 255, 0.06);
+ border-radius: 40px;
+ padding: 14px 15px;
+ background-image: url('../../common/images/auth/photo.svg');
+ background-repeat: no-repeat;
+ background-position: center;
+ width: 22px;
+ height: 22px;
+}
+
+.initials {
+ font-size: 44px;
+ line-height: 50px;
+ color: #fff;
+ background: linear-gradient(270.03deg, #FFFFFF -5.9%, #2351FF 110.24%);
+ padding: 27px 29px 33px 18px;
+ border-radius: 50%;
+ height: 100%;
+}
