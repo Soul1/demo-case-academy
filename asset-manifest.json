@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/demo-case-academy/static/css/main.bd4a6752.chunk.css",
+    "main.css": "/demo-case-academy/static/css/main.44619eda.chunk.css",
     "main.js": "/demo-case-academy/static/js/main.4399877a.chunk.js",
     "main.js.map": "/demo-case-academy/static/js/main.4399877a.chunk.js.map",
     "runtime-main.js": "/demo-case-academy/static/js/runtime-main.16478df3.js",
@@ -10,7 +10,7 @@
     "static/js/2.dff52ca2.chunk.js.map": "/demo-case-academy/static/js/2.dff52ca2.chunk.js.map",
     "index.html": "/demo-case-academy/index.html",
     "static/css/2.85610714.chunk.css.map": "/demo-case-academy/static/css/2.85610714.chunk.css.map",
-    "static/css/main.bd4a6752.chunk.css.map": "/demo-case-academy/static/css/main.bd4a6752.chunk.css.map",
+    "static/css/main.44619eda.chunk.css.map": "/demo-case-academy/static/css/main.44619eda.chunk.css.map",
     "static/js/2.dff52ca2.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.dff52ca2.chunk.js.LICENSE.txt",
     "static/media/Alexei-Evdokimov.8c4de92a.png": "/demo-case-academy/static/media/Alexei-Evdokimov.8c4de92a.png",
     "static/media/index.scss": "/demo-case-academy/static/media/transferMap-light.0469a236.png",
@@ -61,7 +61,7 @@
     "static/js/runtime-main.16478df3.js",
     "static/css/2.85610714.chunk.css",
     "static/js/2.dff52ca2.chunk.js",
-    "static/css/main.bd4a6752.chunk.css",
+    "static/css/main.44619eda.chunk.css",
     "static/js/main.4399877a.chunk.js"
   ]
 }
