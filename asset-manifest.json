@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/demo-case-academy/static/css/main.0dda9bc3.chunk.css",
-    "main.js": "/demo-case-academy/static/js/main.290d3361.chunk.js",
-    "main.js.map": "/demo-case-academy/static/js/main.290d3361.chunk.js.map",
+    "main.css": "/demo-case-academy/static/css/main.1d9cd329.chunk.css",
+    "main.js": "/demo-case-academy/static/js/main.88cef9b4.chunk.js",
+    "main.js.map": "/demo-case-academy/static/js/main.88cef9b4.chunk.js.map",
     "runtime-main.js": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js",
     "runtime-main.js.map": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js.map",
     "static/css/2.f2cbe9a4.chunk.css": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css",
-    "static/js/2.9ffe8bf1.chunk.js": "/demo-case-academy/static/js/2.9ffe8bf1.chunk.js",
-    "static/js/2.9ffe8bf1.chunk.js.map": "/demo-case-academy/static/js/2.9ffe8bf1.chunk.js.map",
+    "static/js/2.67af37f5.chunk.js": "/demo-case-academy/static/js/2.67af37f5.chunk.js",
+    "static/js/2.67af37f5.chunk.js.map": "/demo-case-academy/static/js/2.67af37f5.chunk.js.map",
     "index.html": "/demo-case-academy/index.html",
     "static/css/2.f2cbe9a4.chunk.css.map": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css.map",
-    "static/css/main.0dda9bc3.chunk.css.map": "/demo-case-academy/static/css/main.0dda9bc3.chunk.css.map",
-    "static/js/2.9ffe8bf1.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.9ffe8bf1.chunk.js.LICENSE.txt",
+    "static/css/main.1d9cd329.chunk.css.map": "/demo-case-academy/static/css/main.1d9cd329.chunk.css.map",
+    "static/js/2.67af37f5.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.67af37f5.chunk.js.LICENSE.txt",
     "static/media/Alexei-Evdokimov.8c4de92a.png": "/demo-case-academy/static/media/Alexei-Evdokimov.8c4de92a.png",
     "static/media/index.scss": "/demo-case-academy/static/media/transferMap-light.0469a236.png",
     "static/media/add.5cd4227e.svg": "/demo-case-academy/static/media/add.5cd4227e.svg",
@@ -35,6 +35,7 @@
     "static/media/close.6984c1e7.svg": "/demo-case-academy/static/media/close.6984c1e7.svg",
     "static/media/close.b3a52f6e.svg": "/demo-case-academy/static/media/close.b3a52f6e.svg",
     "static/media/default-case-preview.051efe87.png": "/demo-case-academy/static/media/default-case-preview.051efe87.png",
+    "static/media/default-case-preview2.2c396c5c.png": "/demo-case-academy/static/media/default-case-preview2.2c396c5c.png",
     "static/media/dislike.cbd24d84.svg": "/demo-case-academy/static/media/dislike.cbd24d84.svg",
     "static/media/facebook.096cfe51.svg": "/demo-case-academy/static/media/facebook.096cfe51.svg",
     "static/media/instagram.7f9b2a49.svg": "/demo-case-academy/static/media/instagram.7f9b2a49.svg",
@@ -62,8 +63,8 @@
   "entrypoints": [
     "static/js/runtime-main.95fe8ed7.js",
     "static/css/2.f2cbe9a4.chunk.css",
-    "static/js/2.9ffe8bf1.chunk.js",
-    "static/css/main.0dda9bc3.chunk.css",
-    "static/js/main.290d3361.chunk.js"
+    "static/js/2.67af37f5.chunk.js",
+    "static/css/main.1d9cd329.chunk.css",
+    "static/js/main.88cef9b4.chunk.js"
   ]
 }
