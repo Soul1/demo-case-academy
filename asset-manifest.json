@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo-case-academy/static/css/main.85c42cf7.chunk.css",
-    "main.js": "/demo-case-academy/static/js/main.7997e53d.chunk.js",
-    "main.js.map": "/demo-case-academy/static/js/main.7997e53d.chunk.js.map",
+    "main.css": "/demo-case-academy/static/css/main.265e2386.chunk.css",
+    "main.js": "/demo-case-academy/static/js/main.01a1cb3d.chunk.js",
+    "main.js.map": "/demo-case-academy/static/js/main.01a1cb3d.chunk.js.map",
     "runtime-main.js": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js",
     "runtime-main.js.map": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js.map",
     "static/css/2.f2cbe9a4.chunk.css": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.9ba53b1e.chunk.js.map": "/demo-case-academy/static/js/2.9ba53b1e.chunk.js.map",
     "index.html": "/demo-case-academy/index.html",
     "static/css/2.f2cbe9a4.chunk.css.map": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css.map",
-    "static/css/main.85c42cf7.chunk.css.map": "/demo-case-academy/static/css/main.85c42cf7.chunk.css.map",
+    "static/css/main.265e2386.chunk.css.map": "/demo-case-academy/static/css/main.265e2386.chunk.css.map",
     "static/js/2.9ba53b1e.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.9ba53b1e.chunk.js.LICENSE.txt",
     "static/media/Alexei-Evdokimov.8c4de92a.png": "/demo-case-academy/static/media/Alexei-Evdokimov.8c4de92a.png",
     "static/media/index.scss": "/demo-case-academy/static/media/transferMap-light.0469a236.png",
@@ -63,7 +63,7 @@
     "static/js/runtime-main.95fe8ed7.js",
     "static/css/2.f2cbe9a4.chunk.css",
     "static/js/2.9ba53b1e.chunk.js",
-    "static/css/main.85c42cf7.chunk.css",
-    "static/js/main.7997e53d.chunk.js"
+    "static/css/main.265e2386.chunk.css",
+    "static/js/main.01a1cb3d.chunk.js"
   ]
 }
