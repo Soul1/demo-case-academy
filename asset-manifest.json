@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo-case-academy/static/css/main.b3259f38.chunk.css",
-    "main.js": "/demo-case-academy/static/js/main.df0b25be.chunk.js",
-    "main.js.map": "/demo-case-academy/static/js/main.df0b25be.chunk.js.map",
+    "main.css": "/demo-case-academy/static/css/main.c2ded371.chunk.css",
+    "main.js": "/demo-case-academy/static/js/main.6dd5fee3.chunk.js",
+    "main.js.map": "/demo-case-academy/static/js/main.6dd5fee3.chunk.js.map",
     "runtime-main.js": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js",
     "runtime-main.js.map": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js.map",
     "static/css/2.f2cbe9a4.chunk.css": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.9ba53b1e.chunk.js.map": "/demo-case-academy/static/js/2.9ba53b1e.chunk.js.map",
     "index.html": "/demo-case-academy/index.html",
     "static/css/2.f2cbe9a4.chunk.css.map": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css.map",
-    "static/css/main.b3259f38.chunk.css.map": "/demo-case-academy/static/css/main.b3259f38.chunk.css.map",
+    "static/css/main.c2ded371.chunk.css.map": "/demo-case-academy/static/css/main.c2ded371.chunk.css.map",
     "static/js/2.9ba53b1e.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.9ba53b1e.chunk.js.LICENSE.txt",
     "static/media/Alexei-Evdokimov.8c4de92a.png": "/demo-case-academy/static/media/Alexei-Evdokimov.8c4de92a.png",
     "static/media/index.scss": "/demo-case-academy/static/media/transferMap-light.0469a236.png",
@@ -38,6 +38,7 @@
     "static/media/default-case-preview2.2c396c5c.png": "/demo-case-academy/static/media/default-case-preview2.2c396c5c.png",
     "static/media/dislike.3b9c177b.svg": "/demo-case-academy/static/media/dislike.3b9c177b.svg",
     "static/media/facebook.2b8bb3af.svg": "/demo-case-academy/static/media/facebook.2b8bb3af.svg",
+    "static/media/file.31d6cfe0.pdf": "/demo-case-academy/static/media/file.31d6cfe0.pdf",
     "static/media/instagram.0392bb07.svg": "/demo-case-academy/static/media/instagram.0392bb07.svg",
     "static/media/like.04faaa34.svg": "/demo-case-academy/static/media/like.04faaa34.svg",
     "static/media/linkedIn.ee7f8c6d.svg": "/demo-case-academy/static/media/linkedIn.ee7f8c6d.svg",
@@ -63,7 +64,7 @@
     "static/js/runtime-main.95fe8ed7.js",
     "static/css/2.f2cbe9a4.chunk.css",
     "static/js/2.9ba53b1e.chunk.js",
-    "static/css/main.b3259f38.chunk.css",
-    "static/js/main.df0b25be.chunk.js"
+    "static/css/main.c2ded371.chunk.css",
+    "static/js/main.6dd5fee3.chunk.js"
   ]
 }
