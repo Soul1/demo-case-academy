@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/demo-case-academy/static/css/main.5d6bd6f4.chunk.css",
-    "main.js": "/demo-case-academy/static/js/main.f906355a.chunk.js",
-    "main.js.map": "/demo-case-academy/static/js/main.f906355a.chunk.js.map",
+    "main.css": "/demo-case-academy/static/css/main.40f1ab75.chunk.css",
+    "main.js": "/demo-case-academy/static/js/main.549c9599.chunk.js",
+    "main.js.map": "/demo-case-academy/static/js/main.549c9599.chunk.js.map",
     "runtime-main.js": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js",
     "runtime-main.js.map": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js.map",
     "static/css/2.f2cbe9a4.chunk.css": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css",
-    "static/js/2.ae8a8d05.chunk.js": "/demo-case-academy/static/js/2.ae8a8d05.chunk.js",
-    "static/js/2.ae8a8d05.chunk.js.map": "/demo-case-academy/static/js/2.ae8a8d05.chunk.js.map",
+    "static/js/2.e880a8ee.chunk.js": "/demo-case-academy/static/js/2.e880a8ee.chunk.js",
+    "static/js/2.e880a8ee.chunk.js.map": "/demo-case-academy/static/js/2.e880a8ee.chunk.js.map",
     "index.html": "/demo-case-academy/index.html",
     "static/css/2.f2cbe9a4.chunk.css.map": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css.map",
-    "static/css/main.5d6bd6f4.chunk.css.map": "/demo-case-academy/static/css/main.5d6bd6f4.chunk.css.map",
-    "static/js/2.ae8a8d05.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.ae8a8d05.chunk.js.LICENSE.txt",
+    "static/css/main.40f1ab75.chunk.css.map": "/demo-case-academy/static/css/main.40f1ab75.chunk.css.map",
+    "static/js/2.e880a8ee.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.e880a8ee.chunk.js.LICENSE.txt",
     "static/media/Alexei-Evdokimov.8c4de92a.png": "/demo-case-academy/static/media/Alexei-Evdokimov.8c4de92a.png",
     "static/media/index.scss": "/demo-case-academy/static/media/transferMap-light.0469a236.png",
     "static/media/add.1f14aa57.svg": "/demo-case-academy/static/media/add.1f14aa57.svg",
@@ -24,7 +24,7 @@
     "static/media/avatar.36d19968.png": "/demo-case-academy/static/media/avatar.36d19968.png",
     "static/media/avatar.c6d08690.svg": "/demo-case-academy/static/media/avatar.c6d08690.svg",
     "static/media/bg-partners.547278dd.png": "/demo-case-academy/static/media/bg-partners.547278dd.png",
-    "static/media/big-circle.652b9b77.png": "/demo-case-academy/static/media/big-circle.652b9b77.png",
+    "static/media/big-circle.d7875af0.png": "/demo-case-academy/static/media/big-circle.d7875af0.png",
     "static/media/camera.7f04e0c6.svg": "/demo-case-academy/static/media/camera.7f04e0c6.svg",
     "static/media/card-1.e810b0a5.svg": "/demo-case-academy/static/media/card-1.e810b0a5.svg",
     "static/media/card-2.459a5a4d.svg": "/demo-case-academy/static/media/card-2.459a5a4d.svg",
@@ -47,7 +47,7 @@
     "static/media/logo-mckinsey.d6776cb3.svg": "/demo-case-academy/static/media/logo-mckinsey.d6776cb3.svg",
     "static/media/logo-white.91c42f0b.svg": "/demo-case-academy/static/media/logo-white.91c42f0b.svg",
     "static/media/logo.577414a5.svg": "/demo-case-academy/static/media/logo.577414a5.svg",
-    "static/media/middle-circle.764b9e8a.png": "/demo-case-academy/static/media/middle-circle.764b9e8a.png",
+    "static/media/middle-circle.27256257.png": "/demo-case-academy/static/media/middle-circle.27256257.png",
     "static/media/pastCase.c08be7c0.svg": "/demo-case-academy/static/media/pastCase.c08be7c0.svg",
     "static/media/pdf.16778df7.svg": "/demo-case-academy/static/media/pdf.16778df7.svg",
     "static/media/pen.a664df1f.svg": "/demo-case-academy/static/media/pen.a664df1f.svg",
@@ -57,7 +57,7 @@
     "static/media/preview-2.0a22d811.png": "/demo-case-academy/static/media/preview-2.0a22d811.png",
     "static/media/reload.bebe4dec.svg": "/demo-case-academy/static/media/reload.bebe4dec.svg",
     "static/media/report.13b7bc44.svg": "/demo-case-academy/static/media/report.13b7bc44.svg",
-    "static/media/small-circle.b376a30f.png": "/demo-case-academy/static/media/small-circle.b376a30f.png",
+    "static/media/small-circle.3a6181b6.png": "/demo-case-academy/static/media/small-circle.3a6181b6.png",
     "static/media/twitter.f76c2621.svg": "/demo-case-academy/static/media/twitter.f76c2621.svg",
     "static/media/up.160be572.svg": "/demo-case-academy/static/media/up.160be572.svg",
     "static/media/video-preview.c624dfd0.png": "/demo-case-academy/static/media/video-preview.c624dfd0.png",
@@ -66,8 +66,8 @@
   "entrypoints": [
     "static/js/runtime-main.95fe8ed7.js",
     "static/css/2.f2cbe9a4.chunk.css",
-    "static/js/2.ae8a8d05.chunk.js",
-    "static/css/main.5d6bd6f4.chunk.css",
-    "static/js/main.f906355a.chunk.js"
+    "static/js/2.e880a8ee.chunk.js",
+    "static/css/main.40f1ab75.chunk.css",
+    "static/js/main.549c9599.chunk.js"
   ]
 }
