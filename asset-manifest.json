@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo-case-academy/static/css/main.62492d98.chunk.css",
-    "main.js": "/demo-case-academy/static/js/main.2d67e70e.chunk.js",
-    "main.js.map": "/demo-case-academy/static/js/main.2d67e70e.chunk.js.map",
+    "main.css": "/demo-case-academy/static/css/main.6753754a.chunk.css",
+    "main.js": "/demo-case-academy/static/js/main.a2a044ad.chunk.js",
+    "main.js.map": "/demo-case-academy/static/js/main.a2a044ad.chunk.js.map",
     "runtime-main.js": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js",
     "runtime-main.js.map": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js.map",
     "static/css/2.f2cbe9a4.chunk.css": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.2fdcdad3.chunk.js.map": "/demo-case-academy/static/js/2.2fdcdad3.chunk.js.map",
     "index.html": "/demo-case-academy/index.html",
     "static/css/2.f2cbe9a4.chunk.css.map": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css.map",
-    "static/css/main.62492d98.chunk.css.map": "/demo-case-academy/static/css/main.62492d98.chunk.css.map",
+    "static/css/main.6753754a.chunk.css.map": "/demo-case-academy/static/css/main.6753754a.chunk.css.map",
     "static/js/2.2fdcdad3.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.2fdcdad3.chunk.js.LICENSE.txt",
     "static/media/Alexei-Evdokimov.8c4de92a.png": "/demo-case-academy/static/media/Alexei-Evdokimov.8c4de92a.png",
     "static/media/index.scss": "/demo-case-academy/static/media/transferMap-light.0469a236.png",
@@ -18,8 +18,6 @@
     "static/media/add.2824e08f.svg": "/demo-case-academy/static/media/add.2824e08f.svg",
     "static/media/add.8a7989c9.svg": "/demo-case-academy/static/media/add.8a7989c9.svg",
     "static/media/arrow.43283db7.svg": "/demo-case-academy/static/media/arrow.43283db7.svg",
-    "static/media/arrowDown.94ed6fce.svg": "/demo-case-academy/static/media/arrowDown.94ed6fce.svg",
-    "static/media/arrowUp.79f87d40.svg": "/demo-case-academy/static/media/arrowUp.79f87d40.svg",
     "static/media/ashbin.c7e7eeb5.svg": "/demo-case-academy/static/media/ashbin.c7e7eeb5.svg",
     "static/media/avatar.36d19968.png": "/demo-case-academy/static/media/avatar.36d19968.png",
     "static/media/avatar.c6d08690.svg": "/demo-case-academy/static/media/avatar.c6d08690.svg",
@@ -67,7 +65,7 @@
     "static/js/runtime-main.95fe8ed7.js",
     "static/css/2.f2cbe9a4.chunk.css",
     "static/js/2.2fdcdad3.chunk.js",
-    "static/css/main.62492d98.chunk.css",
-    "static/js/main.2d67e70e.chunk.js"
+    "static/css/main.6753754a.chunk.css",
+    "static/js/main.a2a044ad.chunk.js"
   ]
 }
