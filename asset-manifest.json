@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo-case-academy/static/css/main.cd036721.chunk.css",
-    "main.js": "/demo-case-academy/static/js/main.bbd90f9e.chunk.js",
-    "main.js.map": "/demo-case-academy/static/js/main.bbd90f9e.chunk.js.map",
+    "main.css": "/demo-case-academy/static/css/main.77d581d1.chunk.css",
+    "main.js": "/demo-case-academy/static/js/main.0ecacd39.chunk.js",
+    "main.js.map": "/demo-case-academy/static/js/main.0ecacd39.chunk.js.map",
     "runtime-main.js": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js",
     "runtime-main.js.map": "/demo-case-academy/static/js/runtime-main.95fe8ed7.js.map",
     "static/css/2.f2cbe9a4.chunk.css": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.59cb6016.chunk.js.map": "/demo-case-academy/static/js/2.59cb6016.chunk.js.map",
     "index.html": "/demo-case-academy/index.html",
     "static/css/2.f2cbe9a4.chunk.css.map": "/demo-case-academy/static/css/2.f2cbe9a4.chunk.css.map",
-    "static/css/main.cd036721.chunk.css.map": "/demo-case-academy/static/css/main.cd036721.chunk.css.map",
+    "static/css/main.77d581d1.chunk.css.map": "/demo-case-academy/static/css/main.77d581d1.chunk.css.map",
     "static/js/2.59cb6016.chunk.js.LICENSE.txt": "/demo-case-academy/static/js/2.59cb6016.chunk.js.LICENSE.txt",
     "static/media/Alexei-Evdokimov.8c4de92a.png": "/demo-case-academy/static/media/Alexei-Evdokimov.8c4de92a.png",
     "static/media/index.scss": "/demo-case-academy/static/media/transferMap-light.0469a236.png",
@@ -35,6 +35,7 @@
     "static/media/close.5fb803ae.svg": "/demo-case-academy/static/media/close.5fb803ae.svg",
     "static/media/default-case-preview.051efe87.png": "/demo-case-academy/static/media/default-case-preview.051efe87.png",
     "static/media/default-case-preview2.2c396c5c.png": "/demo-case-academy/static/media/default-case-preview2.2c396c5c.png",
+    "static/media/default.9991bb74.png": "/demo-case-academy/static/media/default.9991bb74.png",
     "static/media/dislike.3b9c177b.svg": "/demo-case-academy/static/media/dislike.3b9c177b.svg",
     "static/media/facebook.2b8bb3af.svg": "/demo-case-academy/static/media/facebook.2b8bb3af.svg",
     "static/media/file.31d6cfe0.pdf": "/demo-case-academy/static/media/file.31d6cfe0.pdf",
@@ -66,7 +67,7 @@
     "static/js/runtime-main.95fe8ed7.js",
     "static/css/2.f2cbe9a4.chunk.css",
     "static/js/2.59cb6016.chunk.js",
-    "static/css/main.cd036721.chunk.css",
-    "static/js/main.bbd90f9e.chunk.js"
+    "static/css/main.77d581d1.chunk.css",
+    "static/js/main.0ecacd39.chunk.js"
   ]
 }
